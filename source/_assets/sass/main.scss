@@ -3,6 +3,8 @@
      padding: 0;
      width: 100%;
      height: 100%;
+     min-height: 100vh;
+     overflow: hidden;
  }
 
  :root {
@@ -13,6 +15,8 @@
 
  body {
      background-color: black;
+     min-height: 100vh;
+     overflow: hidden;
  }
 
  * {
@@ -166,14 +170,29 @@
              height: 35vh;
              justify-content: center;
              position: relative;
-
+             @media screen and (max-width: 640px) {
+              flex-direction: column;
+              padding: 3rem;
+              height: auto;
+              }
              .logo__content {
+                @media screen and (max-width: 640px) {
+                    padding: 0;
+                    border-right: 0;
+                    text-align: center;
+                    padding-bottom: 1.5rem;
+                  }
 
 
                  padding: 0 2rem 0px 0rem;
                  border-right: 1px solid #fff;
 
                  img {
+                    @media screen and (max-width: 640px) {
+                    height: auto;
+    width: 33%;
+                    }
+
                      height: 100%;
                      width: auto;
                  }
@@ -181,10 +200,14 @@
 
              .informations__content {
                  padding-left: 2rem;
-
+                 @media screen and (max-width: 640px) {
+                  padding: 0 2rem;
+                    }
                  .field__content {
                      color: white;
-
+                     @media screen and (max-width: 640px) {
+                      text-align: center;
+                          }
                      &:first-child {
                          margin-top: 0;
                          margin-bottom: 2rem;
@@ -249,7 +272,7 @@
 
              .toggle+label {
                  position: relative;
-                 background: #c0c0c0;
+                 background: transparent;
                  width: var(--toggleWidth);
                  height: var(--toggleHeight);
                  display: inline-flex;
@@ -259,6 +282,7 @@
                  transition: background 0.2s ease-in-out;
                  text-indent: calc(var(--toggleWidth) + 10px);
                  white-space: nowrap;
+                 border:1px solid white;
 
                  &:after {
                      content: "";
