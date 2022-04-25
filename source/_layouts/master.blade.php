@@ -17,26 +17,18 @@
     <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
 </head>
 <body>
-    <section>
-       
-
-        <article>
-            <section>
-                @yield('content')
-            </section>
-        </article>
-
-        <footer>
-            <small>
-                &copy; <span data-year></span> {{ $page->owner->name }} &nbsp;&bull;&nbsp;
-                <a href="/feed.atom">RSS</a> &nbsp;&bull;&nbsp;
-                Maintained by Ranie Santos &nbsp;&bull;&nbsp;
-                <a href="https://github.com/raniesantos/artisan-static">GitHub repo</a>
-            </small>
-        </footer>
+    <section class="loader">
+         <div class="loader__content">
+             <img src="/logo.png" class="flash">
+             <div class="loader-line"></div>
+         </div>
     </section>
-
-    <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
+    <section class="home">        
+            @yield('content')
+    </section>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
+    
     @includeWhen($page->production && $page->services->analytics, '_partials.analytics')
     @include('_partials.cms.identity_redirect')
 </body>
