@@ -1,6 +1,11 @@
 @extends('_layouts.master')
 
 @section('content')
+   <div class="plan__content">
+       <div id="mapbox">
+           
+       </div>
+   </div>
    <div class="home__content">
         <div class="logo__content">
             <img src="logo.png">
@@ -23,5 +28,11 @@
                 <a href="https://www.instagram.com/yakuzasando/" target="_blank"><span>instagram</span></a>
             </div>
         </div>
+      
    </div>
+   <div class="toggle__content">
+        <input type="checkbox" name="map_checkbox" id="toggle" class="toggle">
+  <label for="toggle"> </label>
+  <p>VIEW ON THE MAP</p>
+        </div>
 @endsection
