@@ -13,6 +13,9 @@ html {
     margin: 0;
     min-height: 100vh;
     background-color: black;
+    @media screen and (min-width: 641px) {
+       height: 100vh;
+    }
   }
   
   /* Avoid Chrome to see Safari hack */
@@ -155,7 +158,9 @@ html {
         
          align-items: center;
          flex-direction: column;
-
+         @media screen and (min-width: 641px) {
+         height: 100vh;
+                 }
          .plan__content {
             filter: brightness(.25);
             height: 100%;
