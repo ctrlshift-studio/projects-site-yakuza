@@ -9,18 +9,42 @@ html{
 body {
     background-color: black;
 }
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-decoration: none;
+}
+@keyframes fadeinout {
+    50% {
+        opacity: 1;
+    }
 
+    100% {
+        opacity: 0;
+        display: none;
+        z-index: -1;
+    }
+}
 section {
+    
     &.loader {
         position: fixed;
-        width: 100%;
+        width: 100vw;
+        z-index: 999;
         height: 100vh;
         left: 0;
         top: 0;
+        right: 0;
+        bottom: 0;
         display: flex;
         justify-content: center;
         align-content: center;
-        transition: all 0.5s ease;
+        transition: all 2.5s ease;
         background: #000;
 
         opacity: 1;
@@ -30,16 +54,7 @@ section {
             -webkit-animation: fadeinout 2s linear forwards;
             animation: fadeinout 2s linear forwards;
 
-            @keyframes fadeinout {
-                50% {
-                    opacity: 1;
-                }
-
-                100% {
-                    opacity: 0;
-                    display: none;
-                }
-            }
+           
         }
 
         .loader__content {
@@ -96,5 +111,64 @@ section {
                 }
             }
         }
+    }
+    &.home{
+        position: relative;
+        z-index: 1;
+        display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+    min-height: 100vh;
+    align-items: center;
+        .home__content{
+            display: flex ;
+            height: 35vh;
+            .logo__content{
+            
+                width: 100%;
+                padding: 0 2rem 0px 0rem;
+    border-right: 1px solid #fff;
+                img{
+                    height: 100%;
+                    width: auto;
+                }
+            }
+            .informations__content{
+                padding-left: 2rem;
+                .field__content{
+                    color: white;
+                    &:first-child{
+                        margin-top: 0;
+                        margin-bottom: 2rem;
+                        
+                    }
+                    &:last-child{
+                        margin-top: 2rem;
+                        margin-bottom: 0rem;
+                    }
+                    margin: 1rem 0;
+                    p{
+                        font-family: adobe-garamond-pro, serif;
+                        font-weight: 400;
+                        font-style: italic;
+                        font-size: 1.25rem;
+                        margin-bottom: 0.25rem;
+                    }
+                    span{
+                        font-family: futura-pt, sans-serif;
+                        font-weight: 300;
+                        font-style: normal;
+                        font-size: 0.75rem;
+                        letter-spacing: 0.2em;
+                        text-transform: uppercase;
+                        
+                    }
+
+                }
+            }
+        }
+      
+    
     }
 }

@@ -13,7 +13,7 @@
     @include('_partials.head.favicon')
     @include('_partials.head.meta')
     @include('_partials.cms.identity_widget')
-
+    <link rel="stylesheet" href="https://use.typekit.net/hhh6san.css">
     <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
 </head>
 <body>
