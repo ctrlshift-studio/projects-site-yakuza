@@ -1,23 +1,31 @@
- html {
-     margin: 0;
-     padding: 0;
-     width: 100%;
-     height: 100%;
-     min-height: 100vh;
-     overflow: hidden;
- }
+:root {
+    --toggleHeight: 2rem;
+    --toggleWidth: 4rem;
+    --toggleGap: 3px;
+}
+html {
+    height: -webkit-fill-available;
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    padding: 0;
+    margin: 0;
+    min-height: 100vh;
+    background-color: black;
+  }
+  
+  /* Avoid Chrome to see Safari hack */
+  @supports (-webkit-touch-callout: none) {
+    body {
+      /* The hack for Safari */
+      min-height: -webkit-fill-available;
+    }
+  }
+ 
 
- :root {
-     --toggleHeight: 2rem;
-     --toggleWidth: 4rem;
-     --toggleGap: 3px;
- }
 
- body {
-     background-color: black;
-     min-height: 100vh;
-     overflow: hidden;
- }
+ 
 
  * {
      margin: 0;
@@ -144,7 +152,7 @@
          justify-content: center;
          align-content: center;
          width: 100%;
-         min-height: 100vh;
+        
          align-items: center;
          flex-direction: column;
 
