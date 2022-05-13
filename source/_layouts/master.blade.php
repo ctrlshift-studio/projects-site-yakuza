@@ -35,8 +35,8 @@
     style: 'mapbox://styles/abdelelmansari/cl27c0ouh005915pfyknofogb',
     //center: [5.378,43.294], 
  
-    center: [2.342, 48.852], 
-    zoom: 15.80,
+    center: [2.338, 48.852], 
+    zoom: 16,
     attributionControl: true,
     interactive: true,
   });

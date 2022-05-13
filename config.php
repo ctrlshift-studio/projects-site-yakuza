@@ -2,27 +2,22 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisanstatic.netlify.app',
+    'baseUrl' => 'https://www.yakuzasando.com',
     'site' => [
         'title' => 'YAKUZA KATSU SANDO & COFFEE',
         'description' => 'YAKUZA KATSU SANDO & COFFEE',
-        'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'Yakuza',
-    ],
-    'links' => [
-        'twitter' => 'https://twitter.com/johndoe',
-    
+        'name' => 'Yakuza Sando',
     ],
     'services' => [
         'cmsVersion' => '~2.10',
         'analytics' => 'UA-XXXXX-Y',
-        'disqus' => 'artisanstatic',
+        'disqus' => '',
         'formcarry' => 'XXXXXXXXXXXX',
         'cloudinary' => [
-            'cloudName' => 'artisanstatic',
-            'apiKey' => '365895137117119',
+            'cloudName' => '',
+            'apiKey' => '',
         ],
     ],
     'collections' => [
