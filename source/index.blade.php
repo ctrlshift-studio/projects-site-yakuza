@@ -17,7 +17,7 @@
             </div>
             <div class="field__content">
                 <p>Adresse</p>
-                <span><a  target="_blank" href="https://www.google.fr/maps/place/5+Rue+des+Quatre+Vents,+75006+Paris/@48.8486193,2.341305,15.06z/data=!4m5!3m4!1s0x47e671d951419acb:0xd3b30d7d9b0f3a62!8m2!3d48.8516532!4d2.3381099" >3-5 rue des quatre vents, 75006 Paris </a></span>
+                <span><a  target="_blank" href="https://www.google.fr/maps/place/5+Rue+des+Quatre+Vents,+75006+Paris/@48.8486193,2.341305,15.06z/data=!4m5!3m4!1s0x47e671d951419acb:0xd3b30d7d9b0f3a62!8m2!3d48.8516532!4d2.3381099" >3-5 rue des quatre vents<br>75006 Paris </a></span>
             </div>
             <div class="field__content">
                 <p>Contact</p>
