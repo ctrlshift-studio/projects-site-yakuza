@@ -34,17 +34,18 @@
     container: 'mapbox',
     style: 'mapbox://styles/abdelelmansari/cl27c0ouh005915pfyknofogb',
     //center: [5.378,43.294], 
-    center: [2.338, 48.852], 
-    zoom: 14.60,
+ 
+    center: [2.342, 48.852], 
+    zoom: 15.80,
     attributionControl: true,
-    interactive: false
+    interactive: true,
   });
 
   const marker = document.createElement('div');
   const markerImg = document.createElement('div');
   marker.className = 'marker';
   marker.appendChild(markerImg); 
-  new mapboxgl.Marker(marker).setLngLat([5.387, 43.291]).addTo(map);
+  new mapboxgl.Marker(marker).setLngLat([2.338, 48.852]).addTo(map);
 </script>
             <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
     
