@@ -162,7 +162,10 @@ html {
          height: 100vh;
                  }
          .plan__content {
-            filter: brightness(.25);
+             &.active{
+                 opacity: 1;
+             }
+           
             height: 100%;
             left: 0;
             position: absolute;
@@ -170,7 +173,8 @@ html {
             width: 100vw;
             z-index: 0;
             overflow: hidden;
-            
+            opacity: 0.2;
+           transition: all ease 1s;
 
 
              .mapboxgl-map {
@@ -208,6 +212,11 @@ html {
              height: 35vh;
              justify-content: center;
              position: relative;
+             opacity: 1;
+             transition: all ease 1s;
+             &.active{
+                 opacity: 0;
+             }
              @media screen and (max-width: 640px) {
               flex-direction: column;
               padding: 3rem;
