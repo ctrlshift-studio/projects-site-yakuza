@@ -5,14 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>
-        @yield('title')
-        {{ !empty($__env->yieldContent('title')) ? ' | ' : '' }}
-        {{ $page->site->title }}
+    YAKUZA KATSU SANDO &amp; COFFEE - COMING SOON.
     </title>
 
     @include('_partials.head.favicon')
     @include('_partials.head.meta')
-    @include('_partials.cms.identity_widget')
+    <!-- @include('_partials.cms.identity_widget') -->
     <link rel="stylesheet" href="https://use.typekit.net/hhh6san.css">
     <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
 </head>
