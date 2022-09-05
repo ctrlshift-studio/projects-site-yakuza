@@ -244,54 +244,70 @@ html {
                         animation: all ease 4s;
                     }
                     .informations__content{
-                        @media screen and (max-width:1000px) {
-                        width: 92.5%;
-                        margin: 0 auto;
-                        margin-top: 3rem;
-                        /* margin-bottom: 4rem; */
-                        height: 80vh;
-                        overflow: auto;
+                        @media screen and (max-width:1024px) {
+                            width: 90%;
+                            margin: 0 auto;
+                            margin-top: 3rem;
+                             margin-bottom: 4rem; 
+                            height: auto;
+                            overflow: auto;
+                            flex-direction: column;
                         }
-                        width: 50%;
+                        display: flex;
+                        width: 90%;
                         margin: 0 auto;
-                        h2{
-                            font-family: adobe-garamond-pro, serif;
-                                color: white;
-                            font-style: italic;
-                            font-size: 1.5rem;
-                            font-weight: 300;
-                          
-                        }
-                    p{
-                        font-family: futura-pt, sans-serif;
-                        font-weight: 300;
-                        font-style: normal;
-                        font-size: 0.75rem;
-                        letter-spacing: 0.2em;
-                        text-transform: uppercase;
-                    }
-                    span{
-                        text-align: center;
-                        display: table;
-                        margin: 1rem auto;
-                        font-size: 0.75rem;
-                        letter-spacing: 2px;
-                        font-family: futura-pt, sans-serif;
-                        border: 1px solid #fff;
-                        color: #fff;
-                        padding: 5px;
-                        justify-self: center;
-                        flex-direction: row;
-                        align-content: center;
-                        justify-content: center;
                         align-items: center;
-                        transition: all ease 1s;
-                        cursor: pointer;
-                        &:hover{
-                            background-color: white;
-                            color: black;
+                        gap: 2rem;
+                        .img{
+                            flex: 1;
+                            img{
+                                width: 100%;
+                                height: auto;
+                            }
+                         
                         }
-                    }
+                        .content{
+                            flex:2;
+
+                            h2{
+                                font-family: adobe-garamond-pro, serif;
+                                    color: white;
+                                font-style: italic;
+                                font-size: 1.5rem;
+                                font-weight: 300;
+                              
+                            }
+                        p{
+                            font-family: futura-pt, sans-serif;
+                            font-weight: 300;
+                            font-style: normal;
+                            font-size: 1rem;
+                            
+                        }
+                        span{
+                            text-align: center;
+                            display: table;
+                            margin: 1rem auto;
+                            font-size: 0.75rem;
+                            letter-spacing: 2px;
+                            font-family: futura-pt, sans-serif;
+                            border: 1px solid #fff;
+                            color: #fff;
+                            padding: 5px;
+                            justify-self: center;
+                            flex-direction: row;
+                            align-content: center;
+                            justify-content: center;
+                            align-items: center;
+                            transition: all ease 1s;
+                            cursor: pointer;
+                            &:hover{
+                                background-color: white;
+                                color: black;
+                            }
+                        }
+                        }
+                      
                 }
                  }
                  .sando__content{
@@ -310,54 +326,69 @@ html {
                         }
                     }
                     .informations__content{
-                        width: 50%;
+                        width: 90%;
                         margin: 0 auto;
+                        display: flex;
+                        gap: 2rem;
+                        align-items: center;
                         @media screen and (max-width:1000px) {
-                            width: 92.5%;
+                            width: 90%;
                             margin: 0 auto;
                             margin-top: 3rem;
-                            /* margin-bottom: 4rem; */
-                            height: 80vh;
+                             margin-bottom: 4rem; 
+                            height: auto;
                             overflow: auto;
+                            flex-direction: column;
                             }
-                    h2{
-                        font-family: adobe-garamond-pro, serif;
-                            color: white;
-                        font-style: italic;
-                        font-size: 1.5rem;
-                        font-weight: 300;
-                      
-                    }
-                    p{
-                        font-family: futura-pt, sans-serif;
-                        font-weight: 300;
-                        font-style: normal;
-                        font-size: 0.75rem;
-                        letter-spacing: 0.2em;
-                        text-transform: uppercase;
-                    }
-                    span{
-                        text-align: center;
-                        display: table;
-                        margin: 1rem auto;
-                        font-size: 0.75rem;
-                        letter-spacing: 2px;
-                        font-family: futura-pt, sans-serif;
-                        border: 1px solid #fff;
-                        color: #fff;
-                        padding: 5px;
-                        justify-self: center;
-                        flex-direction: row;
-                        align-content: center;
-                        justify-content: center;
-                        align-items: center;
-                        transition: all ease 1s;
-                        cursor: pointer;
-                        &:hover{
-                            background-color: white;
-                            color: black;
-                        }
-                    }
+                            .img{
+                                flex:1;
+                                img{
+                                    height: auto;
+                                    width: 100%;
+                                }
+                            }
+                            .content{
+                                flex:2;
+                                h2{
+                                    font-family: adobe-garamond-pro, serif;
+                                        color: white;
+                                    font-style: italic;
+                                    font-size: 1.5rem; 
+                                    font-weight: 300;
+                                  
+                                }
+                                p{
+                                    font-family: futura-pt, sans-serif;
+                                    font-weight: 300;
+                                    font-style: normal;
+                                    font-size: 1rem;
+                               
+                                
+                                }
+                                span{
+                                    text-align: center;
+                                    display: table;
+                                    margin: 1rem auto;
+                                    font-size: 0.75rem;
+                                    letter-spacing: 2px;
+                                    font-family: futura-pt, sans-serif;
+                                    border: 1px solid #fff;
+                                    color: #fff;
+                                    padding: 5px;
+                                    justify-self: center;
+                                    flex-direction: row;
+                                    align-content: center;
+                                    justify-content: center;
+                                    align-items: center;
+                                    transition: all ease 1s;
+                                    cursor: pointer;
+                                    &:hover{
+                                        background-color: white;
+                                        color: black;
+                                    }
+                                }
+                            }
+                 
                 }
                     &.hidden{
                         display: none;
@@ -439,8 +470,8 @@ html {
              }
              @media screen and (max-width: 640px) {
               flex-direction: column;
-              padding: 3rem;
-              height: auto;
+              padding-top: 3rem;
+              height: 100vh;
               }
              .logo__content {
                 @media screen and (max-width: 640px) {

@@ -19,9 +19,14 @@
    </div>
    <div class="sando__content hidden">
    <div class="bg-img"> 
-        <img src="sando.jpeg">
+      
     </div>
     <div class="informations__content">
+        <div class="img">
+        <img src="sando.jpeg">
+
+        </div>
+        <div class="content">
         <h2>Le Sando</h2>
     <p>
     Le Katsu Sando, ou Sando pour les intimes, est aux japonais ce que le jambon-beurre est aux français. Ce sandwich a vu le jour avec le déve- loppement des chemins de fer. Facile à manger, nourrissant, il est rapi- dement devenu culte. Pour Walter Ishizuka c’est un souvenir d’enfance.Son père le préparait pour les pique-niques familiaux. Lui-même cuisinier d’origine japonaise, installé en France depuis les années 1970, il préparait une version personnelle, différente de la recette traditionnelle au porc pané. 
@@ -36,12 +41,17 @@ C’est hyper fondant et beaucoup plus facile à déguster. » Côté garnitures
 </p>  
 <span class="closed__sando">CLOSE</span>
 </div>
+</div>
    </div>
    <div class="chef__content hidden">
     <div class="bg-img">
-        <img src="yakuza_bg.webp">
+
     </div>
         <div class="informations__content">
+            <div class="img">
+            <img src="yakuza_bg.webp">
+            </div>
+            <div class="content"> 
         <h2>Le Chef Walter Ishizuka</h2>
             <p>
             Dans Yakuza Katsu Sando & Coffee, Walter Ishizuka place tout azimut son aspiration à plus de proximité, son savoir-faire et sa double culture. Depuis plusieurs années, ce chef franco-japonais, rompu aux codes de la haute gastronomie rêve d’ouvrir son coffee shop. C’est à un pas du Carrefour de l’Odéon, pas loin du marché Saint-Germain et du Jardin du Luxembourg, qu’il réalise son vœu mûrement réfléchi pen-dant le confinement. « C’est un quartier dans lequel se croisent toutes les populations parisiennes : des étudiants, des touristes, des travailleurs et des riverains.
@@ -52,6 +62,7 @@ Ici, c’est plus que jamais l’excellence qui l’anime, mais aussi l’éco-r
             </p>
             <span class="closed__chef">CLOSE</span>
         </div>
+</div>
    </div>
    <div class="home__content">
         <div class="logo__content">
