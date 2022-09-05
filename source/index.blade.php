@@ -68,7 +68,7 @@ Ici, c’est plus que jamais l’excellence qui l’anime, mais aussi l’éco-r
             </div>
             <div class="field__content">
                 <p>Contact</p>
-                <span><a href="mailto:walter@yakuzasando.com">walter@yakuzasando.com</a></span>
+                <span><a href="mailto:contact@yakuzasando.com">contact@yakuzasando.com</a></span>
             </div>
             <div class="field__content">
                 <p>Social</p>
