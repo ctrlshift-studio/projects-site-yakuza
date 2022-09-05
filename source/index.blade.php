@@ -60,7 +60,8 @@ Ici, c’est plus que jamais l’excellence qui l’anime, mais aussi l’éco-r
         <div class="informations__content">
             <div class="field__content">
                 <p>Horaires</p>
-                <span>Opening 6 septembre 2022</span>
+                <span>Mardi - Samedi : 12h-22h<br>
+Dimanche & lundi : Fermé</span>
             </div>
             <div class="field__content">
                 <p>Adresse</p>
