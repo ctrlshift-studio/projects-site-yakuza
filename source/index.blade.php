@@ -6,6 +6,9 @@
             <h4 class="line-animation-link chef__item underline-link">Le Chef</h4>
         </div>
         <div class="menu__item">
+            <a target="_blank" href="menu.pdf"><h4 class="line-animation-link menu__item underline-link">Le Menu</h4></a>
+        </div>
+        <div class="menu__item"> 
             <h4 class="line-animation-link sando__item underline-link">Le Sando</h4>
         </div>
     </div>
