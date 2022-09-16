@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>
-    YAKUZA KATSU SANDO &amp; COFFEE - COMING SOON.
+    Yakuza Katsu Sando &amp; Coffee - Food Concept Gourmet Katsu Sando
     </title>
 
     @include('_partials.head.favicon')

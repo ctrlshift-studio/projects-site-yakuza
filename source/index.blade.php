@@ -71,7 +71,7 @@ Ici, c’est plus que jamais l’excellence qui l’anime, mais aussi l’éco-r
         <div class="informations__content">
             <div class="field__content">
                 <p>Horaires</p>
-                <span>Mardi - Samedi : 12h-22h<br>
+                <span>Mardi - Samedi : 10h-22h<br>
 Dimanche & lundi : Fermé</span>
             </div>
             <div class="field__content">
