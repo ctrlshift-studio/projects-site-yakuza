@@ -13,6 +13,12 @@
     <!-- @include('_partials.cms.identity_widget') -->
     <link rel="stylesheet" href="https://use.typekit.net/hhh6san.css">
     <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
+    <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"
+/>
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
 </head>
 <body>
     <section class="loader">
@@ -21,6 +27,7 @@
              <div class="loader-line"></div>
          </div>
     </section>
+    @include('_partials.header')
     <section class="home">        
             @yield('content')
     </section>

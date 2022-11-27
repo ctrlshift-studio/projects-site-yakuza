@@ -5,6 +5,8 @@ $(window).on('load', function() {
     $(".loader").addClass('disable')
 });
 
+
+
 $('.chef__item').click(function(){
   $('.chef__content').toggleClass('hidden');
   $('.home__content').toggleClass('hidden');
@@ -31,6 +33,7 @@ $('.closed__chef').click(function(){
   $('.toggle__content').toggleClass('hidden');
   $('.sando__item').toggleClass('disabled')
 });
+
 
 $('[name="map_checkbox"]').change(function()
 {
