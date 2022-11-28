@@ -196,7 +196,7 @@ font-weight: 300;
             padding: 2vh;
             text-align: center;
             img{
-                width: 5vh;
+                width: 7vh;
                 height: auto;
             
             }
@@ -689,7 +689,7 @@ font-weight: 300;
                  img {
                     @media screen and (max-width: 640px) {
                     height: auto;
-    width: 33%;
+                    width: 33%;
                     }
 
                      height: 100%;
@@ -816,6 +816,34 @@ font-weight: 300;
          }
 
      }
+
+     .description {
+        text-align: center;
+        align-items: center;
+        display: flex;
+        margin: 5rem 0 0 0;
+        font-family: futura-pt, sans-serif;
+
+        :hover {
+            text-decoration: underline;
+        }
+
+
+        img {
+            width: 13vh;
+            margin: 0 1rem 0 0;
+        }
+
+        @media screen and (max-width:1000px) {
+            display: flex;
+            flex-direction: column;
+            
+            p {
+                margin: 1.5rem 0 0 0;
+            }
+        }
+      }
+      
  }
  @keyframes fadeinclear {
     50% {

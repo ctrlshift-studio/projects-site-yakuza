@@ -31,7 +31,7 @@
       <a href="/"><li>Contact</li></a>
       <a href="yabai.html"><li>Yabaï Sando</li></a>
       <a target="_blank" href="https://bookings.zenchef.com/results?rid=360241&pid=1001"><li>Réserver</li></a>
-      <a target="_blank" href="https://ccdl.zenchef.com/articles?rid=360241"><li>Commmander en ligne</li></a>
+      <a target="_blank" href="https://ccdl.zenchef.com/articles?rid=360241"><li>Commander en ligne</li></a>
     </ul>
   </div> 
 </nav>
