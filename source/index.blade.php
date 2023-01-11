@@ -26,8 +26,9 @@
     <div class="informations__content">
         <div class="field__content">
             <p>Horaires</p>
-            <span>Mardi - Samedi : 10h-22h<br>
-                Dimanche & lundi : Fermé</span>
+            <span>Mardi & Mercredi : 10h-19h<br>
+                  Jeudi, Vendredi & Samedi : 10h-21h<br>
+                  Dimanche & Lundi : Fermé</span>
         </div>
         <div class="field__content">
             <p>Adresse</p>

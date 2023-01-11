@@ -14,7 +14,9 @@ permalink: yabai.html
     <div  class="informations__content">
         <div class="field__content">
             <p>Horaires</p>
-            <span>Lundi - Dimanche : 11h-18h<br>
+            <span>Dimanche - Mercredi : 10h-18h<br>
+                  Jeudi  : 10h-18h<br>
+                  Vendredi & Samedi : 10h-19h</span>
                
         </div>
         <div class="field__content">
