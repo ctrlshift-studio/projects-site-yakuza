@@ -12,7 +12,7 @@ permalink: sando.html
   
     <div class="informations__content">
         <div class="img">
-            <img src="sando.jpeg">
+            <img src="leSando.jpg">
 
         </div>
         <div class="content">

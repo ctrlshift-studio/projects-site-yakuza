@@ -11,7 +11,7 @@ permalink: chef.html
    
     <div class="informations__content">
         <div class="img">
-            <img src="yakuza_bg.webp">
+            <img src="yakuza_chef.jpg">
         </div>
         <div class="content">
             <h2>Le Chef Walter Ishizuka</h2>
