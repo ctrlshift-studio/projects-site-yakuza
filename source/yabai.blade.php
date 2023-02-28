@@ -12,8 +12,12 @@ permalink: yabai.html
             <img src="logo.png">
         </div> -->
     <div  class="informations__content">
+    <div class="field__content">
+            <p>Pop-up Yabaï Sando<br> à la Samaritaine</p>
+</div>
         <div class="field__content">
             <p>Horaires</p>
+           
             <span>Dimanche - Mercredi : 10h-17h<br>
                   Jeudi  : 10h-18h<br>
                   Vendredi & Samedi : 10h-19h</span>
@@ -27,11 +31,11 @@ permalink: yabai.html
         </div>
         <div class="field__content">
             <p>Contact</p>
-            <span><a href="mailto:contact@yakuzasando.com">contact@yakuzasando.com</a></span>
+            <span><a href="mailto:contact@yabaisando.com">contact@yabaisando.com</a></span>
         </div>
         <div class="field__content">
             <p>Social</p>
-            <a href="https://www.instagram.com/yakuzasando/" target="_blank"><span>instagram</span></a>
+            <a href="https://www.instagram.com/yabaisando/" target="_blank"><span>instagram</span></a>
         </div>
     </div>
 

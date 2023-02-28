@@ -26,9 +26,12 @@
     <div class="informations__content">
         <div class="field__content">
             <p>Horaires</p>
-            <span>Mardi & Mercredi : 10h-19h<br>
-                  Jeudi, Vendredi & Samedi : 10h-21h<br>
-                  Dimanche & Lundi : Fermé</span>
+       
+            <span>Lundi : 10h - 17h <br>
+                Mardi & Mercredi : 10h-19h<br>
+
+                  Jeudi, Vendredi & Samedi : 10h-22h<br>
+                  Dimanche : Fermé</span>
         </div>
         <div class="field__content">
             <p>Adresse</p>
@@ -38,16 +41,16 @@
         </div>
         <div class="field__content">
             <p>Contact</p>
-            <span><a href="mailto:contact@yakuzasando.com">contact@yakuzasando.com</a></span>
+            <span><a href="mailto:contact@yabaisando.com">contact@yabaisando.com</a></span>
         </div>
         <div class="field__content">
             <p>Social</p>
-            <a href="https://www.instagram.com/yakuzasando/" target="_blank"><span>instagram</span></a>
+            <a href="https://www.instagram.com/yabaisando/" target="_blank"><span>instagram</span></a>
         </div>
         <div class="description">
             <img src="yabai.png"> 
-                <p>Yakuza Sando installe son pop-up Yabaï Sando <br>
-                à partir du 28 Novembre à <a href="https://www.google.com/maps/place/Samaritaine/@48.8594088,2.3424653,15z/data=!4m2!3m1!1s0x0:0x35361b69f3e8956c?sa=X&ved=2ahUKEwiYqITcmNH7AhVGi1wKHVTJADwQ_BJ6BAh5EAg" target="_blank">La Samaritaine !</a>
+                <p>Profitez du pop-up Yabaï Sando<br>
+               jusqu'à fin mars à <a href="https://www.google.com/maps/place/Samaritaine/@48.8594088,2.3424653,15z/data=!4m2!3m1!1s0x0:0x35361b69f3e8956c?sa=X&ved=2ahUKEwiYqITcmNH7AhVGi1wKHVTJADwQ_BJ6BAh5EAg" target="_blank">La Samaritaine !</a>
                 </p>  
 </div>
     </div>

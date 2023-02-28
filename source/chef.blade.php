@@ -16,7 +16,7 @@ permalink: chef.html
         <div class="content">
             <h2>Le Chef Walter Ishizuka</h2>
             <p>
-                Dans Yakuza Katsu Sando & Coffee, Walter Ishizuka place tout azimut son aspiration à plus de proximité,
+                Dans Yabaï Sando, Walter Ishizuka place tout azimut son aspiration à plus de proximité,
                 son savoir-faire et sa double culture. Depuis plusieurs années, ce chef franco-japonais, rompu aux codes
                 de la haute gastronomie rêve d’ouvrir son coffee shop. C’est à un pas du Carrefour de l’Odéon, pas loin
                 du marché Saint-Germain et du Jardin du Luxembourg, qu’il réalise son vœu mûrement réfléchi pen-dant le

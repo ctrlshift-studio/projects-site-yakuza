@@ -23,7 +23,7 @@
 <body>
     <section class="loader">
          <div class="loader__content">
-             <img src="/logo.png" class="flash">
+             <img src="/yabai.png" class="flash">
              <div class="loader-line"></div>
          </div>
     </section>

@@ -94,7 +94,7 @@ Les novices comme les connaisseurs seront conquis à coup sûr !
                     </a></div>
                 <div class="swiper-slide press_item"> <a
                         href="https://www.lepoint.fr/gastronomie/le-gout-de-paris-pourquoi-vous-allez-adorer-le-yakuza-katsu-sando-coffee-26-10-2022-2495377_82.php">
-                        <h3>“Pourquoi vous allez adorer le Yakuza katsu sando & coffee
+                        <h3>“Pourquoi vous allez adorer le Yabaï Sando ?
 La recette signature au bœuf wagyu, premier effet waouh à l'ouverture de la boîte qui renferme le sandwich.
 Le deuxième effet waouh vient de l'appétissante odeur qu'il dégage lorsqu'on l'approche de la bouche, l'un des grands plaisirs des sandwichs chauds.”</h3>
 
