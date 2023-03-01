@@ -35,7 +35,7 @@ permalink: yabai.html
         </div>
         <div class="field__content">
             <p>Social</p>
-            <a href="https://www.instagram.com/yabaisando/" target="_blank"><span>instagram</span></a>
+            <a href="https://www.instagram.com/yabai.sando/" target="_blank"><span>instagram</span></a>
         </div>
     </div>
 
