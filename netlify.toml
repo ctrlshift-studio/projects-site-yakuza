@@ -3,3 +3,11 @@
 command = "npm run prod"
 publish = "build_production"
 environment = { PHP_VERSION = "7.4", NODE_VERSION = "12.16.1" }
+
+[[redirects]]
+  from = "https://www.yakuzasando.com"
+  to = "https://www.yabaisando.com"
+  status = 200
+  force = true # COMMENT: ensure that we always redirect
+  headers = {X-From = "Netlify"}
+  signed = "API_SIGNATURE_TOKEN"
