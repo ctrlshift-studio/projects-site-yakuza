@@ -1,14 +1,14 @@
 <!-- seo/social -->
 <link rel="canonical" href="{{ $page->getUrl() }}">
 <meta name="identifier-url" content="https://www.yakuzasando.com/" />
-<meta name="title" content="Yakuza Katsu Sando &amp; Coffee - Food Concept Gourmet Katsu Sando" />
-<meta name="description" content="Yakuza Katsu Sando &amp; Coffee - Concept food de gourmet Katsu Sando (sandwich japonais) imaginé par le Chef Walter Ishizuka." />
-<meta name="abstract" content="Yakuza Katsu Sando &amp; Coffee - Concept food de gourmet Katsu Sando (sandwich japonais) imaginé par le Chef Walter Ishizuka." />
+<meta name="title" content="Yabai Sando - Ex Yakuza Katsu Sando &amp; Coffee - Food Concept Gourmet Katsu Sando" />
+<meta name="description" content="Yabai Sando -  Concept food de gourmet Katsu Sando (sandwich japonais) imaginé par le Chef Walter Ishizuka." />
+<meta name="abstract" content="Yabai Sando - Ex - Concept food de gourmet Katsu Sando (sandwich japonais) imaginé par le Chef Walter Ishizuka." />
 <meta name="keywords" content="Sando, Coffee, Katsu, Paris, Sandwich Japonais" />
-<meta name="author" content="Yakuza Katsu Sando &amp; Coffee" />
+<meta name="author" content="Yabai Sando" />
 <meta name="revisit-after" content="5" />
 <meta name="language" content="FR" />
-<meta name="copyright" content="© 2022 Yakuza Katsu Sando &amp; Coffee" />
+<meta name="copyright" content="© 2022 Yabai Sando " />
 <meta name="robots" content="All" />
 
 <meta property="og:title" content="{{ $page->title ?: $page->site->title }}">
