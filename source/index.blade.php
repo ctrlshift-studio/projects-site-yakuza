@@ -28,10 +28,11 @@
             <p>Horaires</p>
        
             <span>Lundi : 10h - 17h <br>
-                Mardi & Mercredi : 10h-19h<br>
+                Mardi & Mercredi : 10h-21h<br>
 
                   Jeudi, Vendredi & Samedi : 10h-22h<br>
-                  Dimanche : Fermé</span>
+                  Dimanche : Fermé<br>
+                  Ouverture très prochainement en Avril le dimanche</span>
         </div>
         <div class="field__content">
             <p>Adresse</p>
