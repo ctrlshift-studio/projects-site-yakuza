@@ -27,12 +27,9 @@
         <div class="field__content">
             <p>Horaires</p>
        
-            <span>Lundi : 10h - 17h <br>
-                Mardi & Mercredi : 10h-21h<br>
-
-                  Jeudi, Vendredi & Samedi : 10h-22h<br>
-                  Dimanche : Fermé<br>
-                  Ouverture très prochainement en Avril le dimanche</span>
+            <span>Lundi au dimanche : 10h - 22h <br>
+                  Dimanche : Brunch  - 11h-16h<br>
+            </span>
         </div>
         <div class="field__content">
             <p>Adresse</p>
