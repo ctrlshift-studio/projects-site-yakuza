@@ -30,7 +30,7 @@
       <a target="_blank" href="menu_23.pdf"><li>Menu</li></a>
       <a href="press.html"><li>Presse</li></a>
       <a href="/"><li>Contact</li></a>
-      <a href="yabai.html"><li>Yabaï Sando Pop-up</li></a>
+      <!-- <a href="yabai.html"><li>Yabaï Sando Pop-up</li></a> -->
       <a target="_blank" href="https://bookings.zenchef.com/results?rid=360241&pid=1001"><li>Réserver</li></a>
       <a target="_blank" href="https://ccdl.zenchef.com/articles?rid=360241"><li>Commander en ligne</li></a>
     </ul>

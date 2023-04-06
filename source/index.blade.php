@@ -45,12 +45,7 @@
             <p>Social</p>
             <a href="https://www.instagram.com/yabai.sando/" target="_blank"><span>instagram</span></a>
         </div>
-        <div class="description">
-            <img src="yabai.png">  
-                <p>Profitez du pop-up Yabaï Sando<br>
-               jusqu'à fin mars à <a href="https://www.google.com/maps/place/Samaritaine/@48.8594088,2.3424653,15z/data=!4m2!3m1!1s0x0:0x35361b69f3e8956c?sa=X&ved=2ahUKEwiYqITcmNH7AhVGi1wKHVTJADwQ_BJ6BAh5EAg" target="_blank">La Samaritaine !</a>
-                </p>  
-</div>
+       
     </div>
 
 </div>
