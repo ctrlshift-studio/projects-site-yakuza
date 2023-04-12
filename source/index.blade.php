@@ -20,9 +20,34 @@
 
 
 <div class="home__content">
-    <!-- <div class="logo__content">
-            <img src="logo.png">
-        </div> -->
+    <div class="logo__content">
+    <div class="swiper">
+  <!-- Additional required wrapper -->
+  <div class="swiper-wrapper">
+    <!-- Slides -->
+    <div class="swiper-slide"><img src="slider/Y_1.jpg"></div>
+    <div class="swiper-slide"><img src="slider/Y_2.jpg"></div>
+    <div class="swiper-slide"><img src="slider/Y_3.jpg"></div>
+    <div class="swiper-slide"><img src="slider/Y_4.jpg"></div>
+    <div class="swiper-slide"><img src="slider/Y_5.jpg"></div>
+    <div class="swiper-slide"><img src="slider/Y_6.jpg"></div>
+    <div class="swiper-slide"><img src="slider/Y_7.jpg"></div>
+    <div class="swiper-slide"><img src="slider/Y_8.jpg"></div>
+    <!-- <div class="swiper-slide"><img src="slider/Y_9.jpg"></div> -->
+   
+   
+  </div>
+  <!-- If we need pagination -->
+  
+
+  <!-- If we need navigation buttons -->
+  <!-- <div class="swiper-button-prev"></div>
+  <div class="swiper-button-next"></div> -->
+
+  <!-- If we need scrollbar -->
+  
+</div>
+        </div>
     <div class="informations__content">
         <div class="field__content">
             <p>Horaires</p>

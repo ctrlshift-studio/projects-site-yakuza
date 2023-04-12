@@ -5,7 +5,29 @@ $(window).on('load', function() {
     $(".loader").addClass('disable')
 });
 
+const swiper = new Swiper('.swiper', {
+  // Optional parameters
+  effect: 'fade',
+  fadeEffect: {
+    crossFade: true
+  },
+  autoplay:true,
+  speed:2000,
+  loop: true,
 
+  // If we need pagination
+  // pagination: {
+  //   el: '.swiper-pagination', 
+  // },
+
+  // Navigation arrows
+  // navigation: {
+  //   nextEl: '.swiper-button-next',
+  //   prevEl: '.swiper-button-prev',
+  // },
+
+ 
+});
 
 $('.chef__item').click(function(){
   $('.chef__content').toggleClass('hidden');

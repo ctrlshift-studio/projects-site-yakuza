@@ -14,5 +14,8 @@
         "sass": "^1.45.0",
         "sass-loader": "^12.4.0",
         "sharer.js": "^0.4.2"
+    },
+    "dependencies": {
+        "swiper": "^9.2.0"
     }
 }
