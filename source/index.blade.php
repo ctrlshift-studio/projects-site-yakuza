@@ -25,9 +25,10 @@
   <!-- Additional required wrapper -->
   <div class="swiper-wrapper">
     <!-- Slides -->
+    <div class="swiper-slide"><img src="slider/Y_3.jpg"></div>
     <div class="swiper-slide"><img src="slider/Y_1.jpg"></div>
     <div class="swiper-slide"><img src="slider/Y_2.jpg"></div>
-    <div class="swiper-slide"><img src="slider/Y_3.jpg"></div>
+
     <div class="swiper-slide"><img src="slider/Y_4.jpg"></div>
     <div class="swiper-slide"><img src="slider/Y_5.jpg"></div>
     <div class="swiper-slide"><img src="slider/Y_6.jpg"></div>
