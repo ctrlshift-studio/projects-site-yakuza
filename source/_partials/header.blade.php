@@ -32,7 +32,7 @@
       <a href="/"><li>Contact</li></a>
       <!-- <a href="yabai.html"><li>Yabaï Sando Pop-up</li></a> -->
       <a target="_blank" href="https://bookings.zenchef.com/results?rid=360241&pid=1001"><li>Réserver</li></a>
-      <a target="_blank" href="https://ccdl.zenchef.com/articles?rid=360241"><li>Commander en ligne</li></a>
+      <a target="_blank" href="https://deliveroo.fr/menu/paris/6eme-odeon/yabai-sando?utm_campaign=organic&utm_medium=referrer&utm_source=menu_share"><li>Commander en ligne</li></a>
     </ul>
   </div> 
 </nav>
