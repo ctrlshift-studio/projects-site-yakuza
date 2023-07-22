@@ -31,11 +31,12 @@
       <a href="press.html"><li>Presse</li></a>
       <a href="/"><li>Contact</li></a>
       <!-- <a href="yabai.html"><li>Yabaï Sando Pop-up</li></a> -->
-      <a target="_blank" href="https://bookings.zenchef.com/results?rid=360241&pid=1001"><li>Réserver</li></a>
-      <a target="_blank" href="https://deliveroo.fr/menu/paris/6eme-odeon/yabai-sando?utm_campaign=organic&utm_medium=referrer&utm_source=menu_share"><li>Commander en ligne</li></a>
+      <a target="_blank" href="https://enjoy.komdab.net/yabai-sando-3-5-rue-des-quatre-vents-google-booking"><li>Réserver</li></a>
+      <a target="_blank" href="https://deliveroo.fr/menu/paris/6eme-odeon/yabai-sando?utm_campaign=organic&utm_medium=referrer&utm_source=menu_share"><li>Commander sur Deliveroo</li></a>
+      <a target="_blank" href="https://yabai-sando.bykomdab.com/?order=true&ab=false"><li>Commander sur KOMDAB</li></a>
     </ul>
   </div> 
-</nav>
+</nav> 
         </div>
         <div class="header__logo section__header">
             <img src="yabai.png" >
