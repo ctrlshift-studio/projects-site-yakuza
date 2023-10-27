@@ -55,6 +55,8 @@
        
             <span>Lundi au dimanche : 10h - 22h <br>
                   Dimanche : Brunch  - 11h-16h<br>
+                  SUR PLACE - À EMPORTER- LIVRAISON - EVENTS
+
             </span>
         </div>
         <div class="field__content">
