@@ -53,7 +53,7 @@
         <div class="field__content">
             <p>Horaires</p>
        
-            <span>lundi au dimanche non stop 10h-21h <br>
+            <span>lundi au dimanche <br>non stop 10h-21h <br>
 
                   SUR PLACE - À EMPORTER- LIVRAISON - EVENTS
 
