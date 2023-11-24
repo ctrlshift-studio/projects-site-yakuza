@@ -27,7 +27,7 @@
       <a href="/"><li>Accueil</li></a>
       <a href="chef.html"><li>Le Chef</li></a>
       <a href="sando.html"><li>Le Sando</li></a>
-      <a   href="yabai_menu_23.pdf"><li>Menu</li></a>
+      <a target="_blank"  href="menu_23_11.pdf"><li>Menu</li></a>
       <a href="press.html"><li>Presse</li></a>
       <a href="/"><li>Contact</li></a>
       <!-- <a href="yabai.html"><li>Yabaï Sando Pop-up</li></a> -->
