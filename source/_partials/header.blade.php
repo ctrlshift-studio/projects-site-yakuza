@@ -31,9 +31,9 @@
       <a href="press.html"><li>Presse</li></a>
       <a href="/"><li>Contact</li></a>
       <!-- <a href="yabai.html"><li>Yabaï Sando Pop-up</li></a> -->
-      <a target="_blank" href="https://enjoy.komdab.net/yabai-sando-3-5-rue-des-quatre-vents-google-booking"><li>Réserver</li></a>
+      <a target="_blank" href="/"><li>Réserver</li></a>
       <a target="_blank" href="https://deliveroo.fr/menu/paris/6eme-odeon/yabai-sando?utm_campaign=organic&utm_medium=referrer&utm_source=menu_share"><li>Commander sur Deliveroo</li></a>
-      <a target="_blank" href="https://yabai-sando.bykomdab.com/?order=true&ab=false"><li>Commander sur KOMDAB</li></a>
+      <a target="_blank" href="https://www.ubereats.com/fr/store/yabai-sando/mk1Lwc1nW4uFy0zBvPWFiA"><li>Commander sur UberEats</li></a>
     </ul>
   </div> 
 </nav> 
@@ -43,7 +43,7 @@
         </div>
         <div class="header__booking section__header">
             <!-- <a  target="_blank" href="https://bookings.zenchef.com/results?rid=360241&pid=1001">RESERVER</a> -->
-            <!-- <a  target="_blank" href="https://ccdl.zenchef.com/articles?rid=360241">COMMANDER</a> -->
+            <a  target="_blank" href="https://deliveroo.fr/fr/menu/paris/6eme-odeon/yabai-sando">COMMANDER</a>
         </div>
     </div>
 </header>

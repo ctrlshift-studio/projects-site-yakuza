@@ -27,13 +27,17 @@
     <!-- Slides -->
     <div class="swiper-slide"><img src="slider/Y_3.jpg"></div>
     <div class="swiper-slide"><img src="slider/Y_1.jpg"></div>
-    <div class="swiper-slide"><img src="slider/Y_2.jpg"></div>
+    <!-- <div class="swiper-slide"><img src="slider/Y_2.jpg"></div> -->
 
     <div class="swiper-slide"><img src="slider/Y_4.jpg"></div>
     <div class="swiper-slide"><img src="slider/Y_5.jpg"></div>
     <div class="swiper-slide"><img src="slider/Y_6.jpg"></div>
     <div class="swiper-slide"><img src="slider/Y_7.jpg"></div>
     <div class="swiper-slide"><img src="slider/Y_8.jpg"></div>
+    <div class="swiper-slide"><img src="slider/min_Y_1.jpg"></div>
+    <div class="swiper-slide"><img src="slider/min_Y_2.jpg"></div>
+    <div class="swiper-slide"><img src="slider/min_Y_3.jpg"></div>
+    <div class="swiper-slide"><img src="slider/min_Y_4.jpg"></div>
     <!-- <div class="swiper-slide"><img src="slider/Y_9.jpg"></div> -->
    
    
@@ -48,14 +52,18 @@
   <!-- If we need scrollbar -->
   
 </div>
+<div class="title__slide">
+    <span>BEST SANDO IN PARIS </span>
+    <span>Tasty sandwich Japonais <br/> du chef Walter Ishizuka</span>
+</div>
         </div>
     <div class="informations__content">
         <div class="field__content">
             <p>Horaires</p>
-       
-            <span>lundi au dimanche <br>non stop 10h-21h <br>
-
-                  SUR PLACE - À EMPORTER- LIVRAISON - EVENTS
+       <span>
+            lundi à jeudi : 11h-19h <br/>
+vendredi - samedi - dimanche <br/> 11h - 21h <br/>
+Sur place - a emporter - livraison - events
 
             </span>
         </div>
@@ -67,7 +75,8 @@
         </div>
         <div class="field__content">
             <p>Contact</p>
-            <span><a href="mailto:contact@yabaisando.com">contact@yabaisando.com</a></span>
+            <span><a href="mailto:contact@yabaisando.com">contact@yabaisando.com</a></span> <br/>
+            <span><a href="tel:+33(0)142013082">+33 (0)1 42 01 30 82</a></span>
         </div>
         <div class="field__content">
             <p>Social</p>

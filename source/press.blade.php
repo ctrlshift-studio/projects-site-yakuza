@@ -15,11 +15,16 @@ permalink: press.html
     .swiper-pagination-bullet{
         background-color:white;
     }
+    
+    .swiper-android .swiper-slide, .swiper-wrapper{
+        width: 100%!important;
+        transform: translate3d(0px, 0px, 0px)!important;
+    }
 
     .swiper-slide {
         text-align: center;
         font-size: 18px;
-
+width: 100%!important;
 
         /* Center slide text vertically */
         display: -webkit-box;
@@ -36,7 +41,7 @@ permalink: press.html
         align-items: center;
     }
 
-    .swiper-slide img {
+    .swiper-slide a img {
         display: block;
         width: 15vh;
         height: 100%;
@@ -104,7 +109,7 @@ Le deuxième effet waouh vient de l'appétissante odeur qu'il dégage lorsqu'on 
             </div>
            
         </div>
-        <div class="swiper-pagination"></div>
+        <!-- <div class="swiper-pagination"></div> -->
     </div>
 </div>
 </div>
@@ -113,10 +118,7 @@ Le deuxième effet waouh vient de l'appétissante odeur qu'il dégage lorsqu'on 
     
         spaceBetween: 30,
         loop:true,
-        pagination: {
-            el: ".swiper-pagination",
-            clickable: true,
-        },
+       
          breakpoints: {
           640: {
             slidesPerView: 1,
