@@ -62,7 +62,7 @@
             <p>Horaires</p>
        <span>
        Mardi & mercredi : 11h-19h <br/>
-Lundi - jeudi - vendredi  - samedi & dimanche <br/> 11h-21h30
+Lundi - jeudi - vendredi  - samedi & dimanche <br/> 11h-21h30 <br/>
            
 Sur place - a emporter - livraison - events
 
