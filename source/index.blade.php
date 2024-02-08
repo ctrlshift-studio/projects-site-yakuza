@@ -61,8 +61,9 @@
         <div class="field__content">
             <p>Horaires</p>
        <span>
-            lundi à jeudi : 11h-19h <br/>
-vendredi - samedi - dimanche <br/> 11h - 21h <br/>
+       Mardi & mercredi : 11h-19h <br/>
+Lundi - jeudi - vendredi  - samedi & dimanche <br/> 11h-21h30
+           
 Sur place - a emporter - livraison - events
 
             </span>
