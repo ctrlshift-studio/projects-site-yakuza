@@ -55,6 +55,11 @@
 <div class="title__slide">
     <span>BEST SANDO IN PARIS </span>
     <span>Tasty sandwich Japonais <br/> du chef Walter Ishizuka</span>
+    <br/>
+    PRÉ-COMMANDER LE LIVRE YABAÏ SANDO<br/>
+Sortie le 9 Octobre 2024    <br/> <br/>
+
+<a target="_blank" href="https://amzn.eu/d/c2svqQD">PRÉ-COMMANDER</a>
 </div>
         </div>
     <div class="informations__content">
@@ -63,7 +68,7 @@
        <span>
         lundi - mardi - jeudi - dimanche<br/>11h - 21h30<br/>
 mercredi: 11h - 19h<br/>
-vendredi - samedi : 11h - 22h00 <br/><br/>
+vendredi - samedi : 11h - 22h00 <br/> 
    
            
 Sur place - a emporter - livraison - events
@@ -73,12 +78,13 @@ Sur place - a emporter - livraison - events
         <div class="field__content">
             <p>Adresse</p>
             <span><a target="_blank"
-                    href="https://www.google.fr/maps/place/5+Rue+des+Quatre+Vents,+75006+Paris/@48.8486193,2.341305,15.06z/data=!4m5!3m4!1s0x47e671d951419acb:0xd3b30d7d9b0f3a62!8m2!3d48.8516532!4d2.3381099">Odéon<br/>3-5
+                    href="https://www.google.fr/maps/place/5+Rue+des+Quatre+Vents,+75006+Paris/@48.8486193,2.341305,15.06z/data=!4m5!3m4!1s0x47e671d951419acb:0xd3b30d7d9b0f3a62!8m2!3d48.8516532!4d2.3381099">Yabaï Sando Odéon<br/>3-5
                     rue des quatre vents<br>75006 Paris </a></span><br/><br/>
                     <span>
  <a target="_blank" href="https://www.google.com/maps/place/6+Bis+Rue+de+Lyon,+75012+Paris/@48.8660275,2.37568,15z/data=!4m6!3m5!1s0x47e672049eb9d07d:0x834c8ecbf6d121ef!8m2!3d48.8471257!4d2.3721072!16s%2Fg%2F11b8z4f84c?entry=ttu">
-Gare de lyon<br/>
-Ouverture Mai 2024<br/>
+Yabaï Sando Gare de lyon<br/>
+lundi-Dimanche 11h30-22h <br/>
+ 
 6 Bis rue de Lyon <br/>75012 Paris</a></span>
         </div>
         <div class="field__content">
