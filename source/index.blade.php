@@ -63,29 +63,28 @@ Sortie le 9 Octobre 2024    <br/> <br/>
 </div>
         </div>
     <div class="informations__content">
+    
         <div class="field__content">
-            <p>Horaires</p>
-       <span>
-        lundi - mardi - jeudi - dimanche<br/>11h - 21h30<br/>
-mercredi: 11h - 19h<br/>
-vendredi - samedi : 11h - 22h00 <br/> 
-   
-           
-Sur place - a emporter - livraison - events
-
-            </span>
-        </div>
-        <div class="field__content">
-            <p>Adresse</p>
+            <p>Adresses</p>
             <span><a target="_blank"
                     href="https://www.google.fr/maps/place/5+Rue+des+Quatre+Vents,+75006+Paris/@48.8486193,2.341305,15.06z/data=!4m5!3m4!1s0x47e671d951419acb:0xd3b30d7d9b0f3a62!8m2!3d48.8516532!4d2.3381099">Yabaï Sando Odéon<br/>3-5
                     rue des quatre vents<br>75006 Paris </a></span><br/><br/>
                     <span>
+                    <span>
+        lundi - mardi - jeudi - dimanche<br/>11h - 21h30<br/>
+mercredi: 11h - 19h<br/>
+vendredi - samedi : 11h - 22h00 <br/> 
+<br/>  <br/> 
+
+
+            </span>
  <a target="_blank" href="https://www.google.com/maps/place/6+Bis+Rue+de+Lyon,+75012+Paris/@48.8660275,2.37568,15z/data=!4m6!3m5!1s0x47e672049eb9d07d:0x834c8ecbf6d121ef!8m2!3d48.8471257!4d2.3721072!16s%2Fg%2F11b8z4f84c?entry=ttu">
 Yabaï Sando Gare de lyon<br/>
-lundi-Dimanche 11h30-22h <br/>
+
  
-6 Bis rue de Lyon <br/>75012 Paris</a></span>
+6 Bis rue de Lyon <br/>75012 Paris</a><br/><br/>
+lundi-Dimanche 11h30-22h <br/><br/>
+Sur place - a emporter - livraison - events</span>
         </div>
         <div class="field__content">
             <p>Contact</p>
